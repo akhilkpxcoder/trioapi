@@ -1,0 +1,26 @@
+{
+  "name": "trioapi",
+  "version": "1.0.0",
+  "description": "API for a Tutorial Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akhilkpxcoder/trioapi.git"
+  },
+  "author": "Trio Team",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akhilkpxcoder/trioapi/issues"
+  },
+  "homepage": "https://github.com/akhilkpxcoder/trioapi#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  },
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
